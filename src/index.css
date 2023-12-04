@@ -11,3 +11,8 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.log{
+  background-color: rgb(163, 186, 207);
+  cursor: pointer;
+}
